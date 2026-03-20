@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://mgsulaiman.gumroad.com/l/LinkLab">Download</a> &bull;
-  <a href="https://linklabapp.com">Website</a>
+  <a href="https://linklabapp.web.app">Website</a>
 </p>
 
 ---
@@ -100,5 +100,5 @@ LinkLab is proprietary software. All rights reserved.
 
 ## Contact
 
-- Website: [linklabapp.com](https://linklabapp.com)
-- Email: info@mgsulaiman.com
+- Website: [linklabapp.web.app](https://linklabapp.web.app)
+- Email: support@linklabapp.com
