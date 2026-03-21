@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mgsulaiman.gumroad.com/l/LinkLab">Download</a> &bull;
-  <a href="https://linklabapp.web.app">Website</a>
+  <a href="https://github.com/mgsulaiman/LinkLab/releases/tag/v1.0.2">Download</a> &bull;
+  <a href="https://www.linklabapp.com">Website</a>
 </p>
 
 ---
@@ -77,7 +77,7 @@ LinkLab is a lightweight macOS menu bar app that lets you manage, test, and auto
 
 ## Installation
 
-1. [Download LinkLab](https://mgsulaiman.gumroad.com/l/LinkLab)
+1. [Download LinkLab](https://github.com/mgsulaiman/LinkLab/releases/tag/v1.0.2)
 2. Open the DMG and drag LinkLab to your Applications folder
 3. Launch LinkLab — it lives in your menu bar
 
@@ -92,7 +92,7 @@ LinkLab is a lightweight macOS menu bar app that lets you manage, test, and auto
 
 All plans include a **7-day free trial** and **30-day money-back guarantee**.
 
-[Get LinkLab](https://mgsulaiman.gumroad.com/l/LinkLab)
+[Get LinkLab](https://github.com/mgsulaiman/LinkLab/releases/tag/v1.0.2)
 
 ## License
 
@@ -100,5 +100,5 @@ LinkLab is proprietary software. All rights reserved.
 
 ## Contact
 
-- Website: [linklabapp.web.app](https://linklabapp.web.app)
+- Website: [www.linklabapp.com](https://www.linklabapp.com)
 - Email: support@linklabapp.com
